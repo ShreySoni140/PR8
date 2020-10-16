@@ -1,0 +1,24 @@
+/* CSS Document */
+
+<style>
+
+nav {
+    margin-left:150px;
+	width:1000px;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #000000;
+	}
+	
+nav a {
+	display: inline-block;
+    color:#FFFFFF;
+	text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+	}
+
+
+
+</style>
+
